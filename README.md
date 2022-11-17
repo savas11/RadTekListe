@@ -16,4 +16,6 @@ Geçtiğimiz yıl fazla izin alıp eksiye girenler ana sekmeye işlenip birdahak
 
 Bayram için ayrı sekme yaptım bayramlarda kim çalışmadıysa daha rahat görebilmek adınadır çok bir fonksiyonu yok. :)
 
-Tarihler otomatikdir ana sekmede yılı girildiğinizde otomatik olarak yeni yıla adapte olur excel şifrelenmemiştir isteyen kendine uyarlayıp kullanabilir okuduğunuz için teşekkürler...
+Tarihler otomatikdir ana sekmede yılı girildiğinizde otomatik olarak yeni yıla adapte olur. 
+
+Excel makro kullanılmamıştır herşey if else dengesiyle kurulmutur,şifrelenmemiştir isteyen kendine uyarlayıp kullanabilir okuduğunuz için teşekkürler...
